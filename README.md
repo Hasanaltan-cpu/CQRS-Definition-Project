@@ -30,7 +30,7 @@
 
 * Select , List
 
-<h3>Handlers<h3>
+<h3>Handlers<h3> 
 -It contains classes that will process all Command or Query requests to be made in the application and return response objects as a result.
 
 <h2>MediatR Design Pattern<h2>
