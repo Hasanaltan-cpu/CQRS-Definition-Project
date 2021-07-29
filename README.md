@@ -17,7 +17,6 @@
 ![CQRS](https://i0.wp.com/codecoach.co.nz/wp-content/uploads/2020/06/CQRS.png?resize=705%2C403&ssl=1)
 
 
-
 <h3>Command<h3>
 <p>Commands, or writes, alter the data within a system. In this context, a ‘write’ has little to do with the traditional idea of writing to disk. Think of it more as a logical rather than a physical write. It’s a system state change—whether to memory, disk or remote service. All commands to be made in the application contain tariff classes.</p>
 <br>
