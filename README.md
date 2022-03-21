@@ -36,3 +36,5 @@
 
 * <p>In software engineering, the mediator pattern defines an object that encapsulates how a set of objects interact. This pattern is considered to be a behavioral pattern due to the way it can alter the program’s running behavior. In object-oriented programming, programs often consist of many classes.
 In simply we can see Mediator pattern is another design pattern that dramatically reduces the coupling between various components of an application by making them communicate indirectly, usually via a special mediator object. We will dive deep into Mediator in another post. Essentially, the Mediator pattern is well suited for CQRS implementation.</p>
+  
+  
