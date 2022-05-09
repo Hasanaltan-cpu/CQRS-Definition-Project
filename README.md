@@ -38,5 +38,8 @@
 In simply we can see Mediator pattern is another design pattern that dramatically reduces the coupling between various components of an application by making them communicate indirectly, usually via a special mediator object. We will dive deep into Mediator in another post. Essentially, the Mediator pattern is well suited for CQRS implementation.</p>
   
   
+  
+  
+  
 
   
